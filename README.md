@@ -16,9 +16,9 @@
 
 ### 👨‍💻 스터디원
 
-| [<img src="https://github.com/choimyungbin.png" width="100px">](https://github.com/choimyungbin) | [<img src="https://github.com/Armedko.png" width="100px">](https://github.com/Armedko) | [<img src="https://github.com/whyyhyh.png" width="100px">](https://github.com/whyyhyh) | [<img src="https://github.com/Wjsgusska.png" width="100px">](https://github.com/Wjsgusska) | [<img src="https://github.com/sym5215.png" width="100px">](https://github.com/sym5215) | [<img src="https://github.com/car3672.png" width="100px">](https://github.com/car3672) |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| [멘토 최명빈](https://github.com/choimyungbin) | [고동수](https://github.com/Armedko) | [남규리](https://github.com/whyyhyh) | [전현남](https://github.com/Wjsgusska) | [문수영](https://github.com/sym5215) | [박정우](https://github.com/car3672) |
+| [<img src="https://github.com/choimyungbin.png" width="100px">](https://github.com/choimyungbin) | [<img src="https://github.com/Armedko.png" width="100px">](https://github.com/Armedko) | [<img src="https://github.com/whyyhyh.png" width="100px">](https://github.com/whyyhyh) | [<img src="https://github.com/Wjsgusska.png" width="100px">](https://github.com/Wjsgusska) | [<img src="https://github.com/sym5215.png" width="100px">](https://github.com/sym5215) | [<img src="https://github.com/car3672.png" width="100px">](https://github.com/car3672) | [<img src="https://github.com/chaer1n.png" width="100px">](https://github.com/chaer1n) |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| [멘토 최명빈](https://github.com/choimyungbin) | [고동수](https://github.com/Armedko) | [남규리](https://github.com/whyyhyh) | [전현남](https://github.com/Wjsgusska) | [문수영](https://github.com/sym5215) | [박정우](https://github.com/car3672) | [이채린](https://github.com/chaer1n) |
 
 ## ⏰ 모임시간
 
